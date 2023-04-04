@@ -30,6 +30,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Step A: create resource group in Azure
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step B: create VM, use Windows 10 and select 2-4 vCPUs, create username and password, and allow it to create new network.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step C: Copy and paste public IP address of VM into remote desktop and login with password set while making VM
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Step 1: Install or Enable IIS in Windows with CGI
 </p>
 <br />
