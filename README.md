@@ -87,10 +87,50 @@ Step 7. Open IIS as an Admin and register PHP within IIS, restart or reload IIS 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MFBrMkw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qtUX1vv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vf7bmju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sL03ljP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-Step 8. Download Rewrite module (rewrite_amd64_en-US.msi) and create the directory C:/PHP
+Step 8. Download osticket, Extract then copy “upload” folder to c:\inetpub\wwwroot, inside c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Reload IIS (Open IIS and click Stop and Restart)
+</p>
+
+<p>
+<img src="https://i.imgur.com/EvCZnUS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5vJgaGy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IzeLJwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 9: Go to sites -> Default -> osTicket, click (Browse *:80)
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 10: Install or Enable IIS in Windows with CGI
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 1: Install or Enable IIS in Windows with CGI
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 1: Install or Enable IIS in Windows with CGI
 </p>
 <br />
