@@ -148,7 +148,7 @@ Step 12: Assign Permissions: ost-config.php, Disable inheritance -> Remove All, 
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PCszMMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -158,7 +158,8 @@ Step 13: Continue with Help Desk setup in browser. Name: Helpdesk, Create Email
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZhCCtyc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XLy94u7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -168,7 +169,13 @@ Step 14: Download HeidiSQL, create new session, login with password made in step
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5Cwht7J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/entrtYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EsEUimd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VT3alLW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X7S4bjD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZAtxDmX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8sTYQJ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -181,15 +188,6 @@ Step 15: Continue osTicket setup in browser. MySQL Database: osTicket, MySQL Use
 </p>
 
 <p>
-Step 16: Continue osTicket setup in browser. MySQL Database: osTicket, MySQL Username: root, MySQL Password:(Choose your own)
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-Step 17: Cleaning up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Step 16: Cleaning up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
