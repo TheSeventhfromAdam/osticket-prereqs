@@ -224,6 +224,6 @@ Step 15: Continue osTicket setup in browser. MySQL Database: osTicket, MySQL Use
 </p>
 
 <p>
-Step 16: Cleaning up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Step 16: Cleaning up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php. Use this link to access helpdesk login page http://localhost/osTicket/scp/login.php.
 </p>
 <br />
