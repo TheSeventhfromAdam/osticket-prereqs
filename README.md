@@ -48,13 +48,21 @@ Step B: create VM, use Windows 10 and select 2-4 vCPUs, create username and pass
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8L9BD7I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dOJ6MvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hbSIDkT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/yYHKkBe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step C: Copy and paste public IP address of VM into remote desktop and login with password set while making VM
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 1: Install or Enable IIS with CGI
 </p>
 <br />
 
