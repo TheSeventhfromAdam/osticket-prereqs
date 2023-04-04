@@ -121,11 +121,13 @@ Step 10: Go to IIS, sites -> Default -> osTicket, double click PHP Manager, Enab
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ha7oSI3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iDGW9K7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QGk1XcL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-Step 1: Install or Enable IIS in Windows with CGI
+Step 11: Rename: ost-config.php, Before rename: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php After: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
 
@@ -134,6 +136,7 @@ Step 1: Install or Enable IIS in Windows with CGI
 </p>
 
 <p>
-Step 1: Install or Enable IIS in Windows with CGI
+Step 12: Assign Permissions: ost-config.php, Disable inheritance -> Remove All, New Permissions -> Everyone -> All
+
 </p>
 <br />
