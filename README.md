@@ -184,7 +184,11 @@ Step 15: Continue osTicket setup in browser. MySQL Database: osTicket, MySQL Use
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OaYBiLI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kWZ1YLX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ENDBRNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lgMBuTH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xnd86yY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
