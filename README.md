@@ -27,7 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5C3bvlv.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VKaz69y.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step A: create resource group in Azure
@@ -35,7 +36,11 @@ Step A: create resource group in Azure
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8QXmQYX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3IOY3Vh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/newevU2.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PkchjtX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p2YpkIr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step B: create VM, use Windows 10 and select 2-4 vCPUs, create username and password, and allow it to create new network.
@@ -44,17 +49,12 @@ Step B: create VM, use Windows 10 and select 2-4 vCPUs, create username and pass
 
 <p>
 <img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yYHKkBe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step C: Copy and paste public IP address of VM into remote desktop and login with password set while making VM
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Step 1: Install or Enable IIS in Windows with CGI
 </p>
 <br />
 
