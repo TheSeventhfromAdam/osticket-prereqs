@@ -54,7 +54,7 @@ Step B: create VM, use Windows 10 and select 2-4 vCPUs, create username and pass
 <img src="https://i.imgur.com/yYHKkBe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step C: Copy and paste public IP address of VM into remote desktop and login with password set while making VM
+Step C: Copy and paste public IP address of VM into remote desktop and login with password you made while setting up the VM in Azure
 </p>
 <br />
 
