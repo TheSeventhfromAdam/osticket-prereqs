@@ -132,11 +132,64 @@ Step 11: Rename: ost-config.php, Before rename: C:\inetpub\wwwroot\osTicket\incl
 <br />
 
 <p>
-<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LaEVYGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BWoIFfK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XClSDoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R9KySem.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xFo9lnU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ndDL1vh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XCUBl1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Step 12: Assign Permissions: ost-config.php, Disable inheritance -> Remove All, New Permissions -> Everyone -> All
 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 13: Continue with Help Desk setup in browser. Name: Helpdesk, Create Email
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 14: Download HeidiSQL, create new session, login with password made in step 6
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 15: Continue osTicket setup in browser. MySQL Database: osTicket, MySQL Username: root, MySQL Password:(Choose your own), click Install Now
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 16: Continue osTicket setup in browser. MySQL Database: osTicket, MySQL Username: root, MySQL Password:(Choose your own)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rKOcjm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 17: Cleaning up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
