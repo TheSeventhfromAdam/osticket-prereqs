@@ -80,7 +80,6 @@ Step 6. Download MySQL 5.5.62, choose TYPICAL install. Choose standard configura
 <img src="https://i.imgur.com/lcffZYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/u3fHwpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/TRsRboV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/V2DJpzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 7. Open IIS as an Admin and register PHP within IIS, restart or reload IIS once complete.
@@ -109,11 +108,15 @@ Step 9: Go to sites -> Default -> osTicket, click (Browse *:80)
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hr7BQn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sYDx5uW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bdJBS5j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WA6FhA3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vmE3OMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-Step 10: Install or Enable IIS in Windows with CGI
+Step 10: Go to IIS, sites -> Default -> osTicket, double click PHP Manager, Enable: php_imap.dll, Enable: php_intl.dll,Enable: php_opcache.dll. One enabled. Refresh osticket in browser and notice the results
 </p>
 <br />
 
